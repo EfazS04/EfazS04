@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EfazS04
-- 👀 I’m interested in a wide range of fields within Software Development
+- 👀 I’m interested in a wide range of fields within Software Development. I also enjoy building programs and designing websites and games
 - 🌱 I’m currently learning C++, C#, Python, Java. I plan to also get into SQL, Javascript and HTML
 - 📫 How to reach me: Email: EfazS2004@gmail.com | Instagram: MaceLogice
 
